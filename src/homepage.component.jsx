@@ -12,7 +12,7 @@ const HomePage = () => (
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Jackets and tees</h1>
+                    <h1 className='title'>Jackets and teessss</h1>
                     <span className='subtitle'>Shop Now</span>
                 </div>
             </div>
